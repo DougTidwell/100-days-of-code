@@ -23,8 +23,7 @@ Stunned by how broken the
 [Free Code Camp](https://freecodecamp.org) 
 website is. Really pathetic, can't get anything to 
 work. At any rate, here's a list of the certifications 
-I want to get, although I  
-may have to find them on [Udemy](https://udemy.com) instead.
+I want to get, although I may have to find them on [Udemy](https://udemy.com) instead.
 
 * Responsive Web Design certification
 * JavaScript Algorithm and Data Structures certification
