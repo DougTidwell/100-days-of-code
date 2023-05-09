@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<img height="300" alt="Masterpiece of code" src="public/images/code_masterpiece.jpg" width="300"/>
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+## Day 1: May 8, 2023 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### WordPress 
+Worked with WordPress, which was clearly created by Satan
+and his minions. I've used it to edit pages on a site that someone else set up, 
+and that was fine; trying to set up a site from scratch (working with my sister Jude 
+on this) was absolutely maddening. Some things could be edited in the WP 
+panel, other things in the Cornerstone editor, and some things just
+kind of appeared whether we wanted them to or not. Insane. 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** Should you take the down escalator after your death
+and Satan offers either red-hot pokers applied to your flesh or 
+"just implement this site in WordPress and you can go," take the 
+seared flesh. You'll thank me. 
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
