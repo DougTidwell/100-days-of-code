@@ -1,58 +1,58 @@
-# I've joined the #100DaysOfCode Challenge
+# [#100DaysOfCode](https://www.100daysofcode.com/) Challenge - Log
 
-## Contents
+<img height="300" alt="Masterpiece of code" src="public/images/code_masterpiece.jpg" width="300"/>
 
-- [Rules](rules.md)
-- [Log - click here to see my progress](log.md)
-- [FAQ](FAQ.md)
-- [Resources](resources.md)
+## Day 2: May 9, 2023 
 
-## Translations
+### freeCodeCamp: [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) – [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
+Spent a couple of hours going through the first two sections
+of this course. A nice overview of things so far, even if 
+most of this stuff I know already. (Kills me to not close
+tags, but that's what the course insists on.) 
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+Also wrapped up the WordPress project. Or decided it was good
+enough, which will have to be the same thing in this case. 
 
-## If you've decided to join:
+With that done, I got back to my job search....
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+## Day 1: May 8, 2023
 
-## ⚡ Interested in meaningfully changing your life & getting the results you want?
+### WordPress
+Worked with WordPress, which was clearly created by Satan
+and his minions. I've used it to edit pages on a site that someone else set up,
+and that was fine; trying to set up a site from scratch (working with my sister Jude
+on this) was absolutely maddening. Some things could be edited in the WP
+panel, other things in the Cornerstone editor, and some things just
+kind of appeared whether we wanted them to or not. Insane.
 
-I publish [Discomfort Academy Newsletter](https://discomfortacademy.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
+**Thoughts:** Should you take the down escalator after your death
+and Satan offers either red-hot pokers applied to your flesh or
+"just implement this site in WordPress and you can go," take the
+seared flesh. You'll thank me.
 
-The themes covered are:
+### Der Plan
 
-- **Habit Change**. Learn how to successfully acquire good habits and how to quit bad ones.
-- **Book Recommendations & Takeaways**. Get awesome book recommendations and golden nuggets of wisdom extracted from these books so you can put them into action right away!
-- **Personal Finance**. Even tiny change you make about how you manage your money will bring mind-boggling results over time. Find out what these changes are!
-- **Starting a Business**. Whether you're a wanna-be indie maker or want to become the next Elon Musk, you will find some great resources here!
-- **Overcoming Creative Blocks**. Together we explore how to beat the Resistance and finish that project you've been day-dreaming about.
-- **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
-- **Other topics**. Psychology, learning to code, alternative lifestyles and more.
+Stunned by how broken the
+[freeCodeCamp](https://freecodecamp.org)
+website is. Really pathetic, can't get anything to
+work. At any rate, here's a list of the certifications
+I want to get, although I  
+may have to find them on [Udemy](https://udemy.com) instead.
 
-Join 7000+ readers!
+* Responsive Web Design certification
+* JavaScript Algorithm and Data Structures certification
+* Front End Development Libraries certification
+* Data Visualization certification (D3 stuff, sounds really cool)
+* Back End Development and APIs certification
+* Information Security certification
+* Scientific Computing with Python certification
+* Data Analysis with Python certification
+* Machine Learning with Python certification
 
-💌 [SUBSCRIBE to the newsletter and start changing your life!](https://discomfortacademy.substack.com/)
-
-## Want to change other habits?
-
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
-
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
-
-## Note
-
-- If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-- If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+Would love to have the certifications for my
+[LinkedIn profile](https://linkedin.com/in/doug3000), but
+that may not be possible with the sorry state of Free Code Camp.
+Will try it again tomorrow, maybe this is just a temporary
+condition. Regardless, getting the skills is the main thing,
+if I get a gold star that's a bonus.
