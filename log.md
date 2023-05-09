@@ -17,4 +17,28 @@ and Satan offers either red-hot pokers applied to your flesh or
 "just implement this site in WordPress and you can go," take the 
 seared flesh. You'll thank me. 
 
+### Der Plan
 
+Stunned by how broken the 
+[Free Code Camp](https://freecodecamp.org) 
+website is. Really pathetic, can't get anything to 
+work. At any rate, here's a list of the certifications 
+I want to get, although I  
+may have to find them on [Udemy](https://udemy.com) instead.
+
+* Responsive Web Design certification
+* JavaScript Algorithm and Data Structures certification
+* Front End Development Libraries certification
+* Data Visualization certification (D3 stuff, sounds really cool)
+* Back End Development and APIs certification
+* Information Security certification 
+* Scientific Computing with Python certification
+* Data Analysis with Python certification
+* Machine Learning with Python certification 
+
+Would love to have the certifications for my 
+[LinkedIn profile](https://linkedin.com/in/doug3000), but 
+that may not be possible with the sorry state of Free Code Camp. 
+Will try it again tomorrow, maybe this is just a temporary 
+condition. Regardless, getting the skills is the main thing, 
+if I get a gold star that's a bonus.
