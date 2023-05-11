@@ -2,6 +2,12 @@
 
 <img height="300" alt="Masterpiece of code" src="public/images/code_masterpiece.jpg" width="300"/>
 
+## Day 3: May 10, 2023
+
+Did another two sections of the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+course. Had no idea there were so many ways to specify colors
+and gradients in CSS! 
+
 ## Day 2: May 9, 2023 
 
 ### freeCodeCamp: [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
