@@ -2,6 +2,16 @@
 
 <img height="300" alt="Masterpiece of code" src="public/images/code_masterpiece.jpg" width="300"/>
 
+## Day 4: May 11, 2023
+
+Stepped away from freeCodeCamp today, worked with [neo4j](neo4j.com) today. 
+Turns out there's a bug in the `brew` formula, had to go through 
+some admin commands to get the installed version of the config file
+to work with the installed version of neo4j. 
+
+(Had a doctors' appointment late in the day, was wiped out 
+by that and forgot to push before I fell asleep.)
+
 ## Day 3: May 10, 2023
 
 Did another two sections of the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
@@ -43,8 +53,7 @@ Stunned by how broken the
 [freeCodeCamp](https://freecodecamp.org)
 website is. Really pathetic, can't get anything to
 work. At any rate, here's a list of the certifications
-I want to get, although I  
-may have to find them on [Udemy](https://udemy.com) instead.
+I want to get, although I may have to find them on [Udemy](https://udemy.com) instead.
 
 * Responsive Web Design certification
 * JavaScript Algorithm and Data Structures certification
