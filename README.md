@@ -2,10 +2,27 @@
 
 <img height="300" alt="Masterpiece of code" src="public/images/code_masterpiece.jpg" width="300"/>
 
+## Day 5: May 12, 2023
+
+More work on the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+course, including the first project required for the certificate. 
+Learning corners of CSS that I never knew existed! The 
+"Build a Rothko painting with CSS" section was pretty brilliant. 
+I did something similar by creating a Mondrian painting with 
+table cells in a PDF in [Apache Fop](https://xmlgraphics.apache.org/fop/) many moons ago. Much easier
+to do the Mondrian. 
+
+Plan is to go through more [neo4j](neo4j.com) and look at 
+[Apache Pulsar](https://pulsar.apache.org/) and 
+[Apache Bookkeeper](https://bookkeeper.apache.org/) tomorrow.
+
+_True but useless fact: "bookkeeper' is the only word in the 
+English language that contains three double letters in a row._
+
 ## Day 4: May 11, 2023
 
-Stepped away from freeCodeCamp today, worked with [neo4j](neo4j.com) today. 
-Turns out there's a bug in the `brew` formula, had to go through 
+Stepped away from freeCodeCamp today, worked with [neo4j](neo4j.com) instead. 
+Turns out there's a bug in the `brew install neo4j` formula, had to go through 
 some admin commands to get the installed version of the config file
 to work with the installed version of neo4j. 
 
