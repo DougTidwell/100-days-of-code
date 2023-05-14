@@ -2,6 +2,13 @@
 
 <img height="300" alt="Masterpiece of code" src="public/images/code_masterpiece.jpg" width="300"/>
 
+## Day 6: May 13, 2023
+
+Was going to work on other stuff, but really got into 
+the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+and didn't do anything else. Will hit the database and streaming
+apps tomorrow. Probably. 
+
 ## Day 5: May 12, 2023
 
 More work on the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
