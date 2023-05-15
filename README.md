@@ -2,6 +2,30 @@
 
 <img height="300" alt="Masterpiece of code" src="public/images/code_masterpiece.jpg" width="300"/>
 
+## Day 8: May 15, 2023
+
+Working on a new demo that uses GitOps with GitHub, ArgoCD, and
+Harness. Have lots of notes for what I'd like the code to do, but
+not ready to put those out here yet. 
+
+Can't get `coredns` to work...installed it with `brew`, but it doesn't
+start. I can run it as a non-root user from the command line, 
+but I can't start it with `brew services start coredns`. Can't 
+find this problem described anywhere, I'll just run it locally
+in my own account instead of as a service. 
+
+Lots of pieces to set up, will package this as a container image
+once everything is working. The hope, obviously, is to use this
+to land a job. But I'll build more skills either way. 
+
+## Day 7: May 14, 2023 (Mother's Day)
+
+**_Called my Mom._** For the record, both her card and her gift arrived 
+on time. A personal best. 
+
+And starting to see the end of the [freeCodeCamp course](https://www.freecodecamp.org/learn/2022/responsive-web-design), worked on 
+that for a couple of hours. 
+
 ## Day 6: May 13, 2023
 
 Was going to work on other stuff, but really got into 
