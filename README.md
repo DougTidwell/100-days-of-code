@@ -2,7 +2,17 @@
 
 <img height="300" alt="Masterpiece of code" src="public/images/code_masterpiece.jpg" width="300"/>
 
-## Day 8: May 15, 2023
+## Day 9: Tuesday, May 16, 2023
+
+Worked extensively with [Docker's](https:///docker.com) open-source
+offerings. Still unsure how `podman` fits in with all of this, 
+but it's really cool stuff. And it's silly, but I'm glad that I got 
+the DockerHub ID `dougtidwell` probably 10 years ago. 
+
+Also set up [Apache Pulsar](https://pulsar.apache.org/) and
+[Apache Bookkeeper](https://bookkeeper.apache.org/) today. 
+
+## Day 8: Monday, May 15, 2023
 
 Working on a new demo that uses GitOps with GitHub, ArgoCD, and
 Harness. Have lots of notes for what I'd like the code to do, but
@@ -18,7 +28,7 @@ Lots of pieces to set up, will package this as a container image
 once everything is working. The hope, obviously, is to use this
 to land a job. But I'll build more skills either way. 
 
-## Day 7: May 14, 2023 (Mother's Day)
+## Day 7: Sunday, May 14, 2023 (Mother's Day)
 
 **_Called my Mom._** For the record, both her card and her gift arrived 
 on time. A personal best. 
@@ -26,14 +36,14 @@ on time. A personal best.
 And starting to see the end of the [freeCodeCamp course](https://www.freecodecamp.org/learn/2022/responsive-web-design), worked on 
 that for a couple of hours. 
 
-## Day 6: May 13, 2023
+## Day 6: Saturday, May 13, 2023
 
 Was going to work on other stuff, but really got into 
 the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 and didn't do anything else. Will hit the database and streaming
 apps tomorrow. Probably. 
 
-## Day 5: May 12, 2023
+## Day 5: Friday, May 12, 2023
 
 More work on the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 course, including the first project required for the certificate. 
@@ -43,16 +53,16 @@ I did something similar by creating a Mondrian painting with
 table cells in a PDF in [Apache Fop](https://xmlgraphics.apache.org/fop/) many moons ago. Much easier
 to do the Mondrian. 
 
-Plan is to go through more [neo4j](neo4j.com) and look at 
+Plan is to go through more [neo4j](https://neo4j.com) and look at 
 [Apache Pulsar](https://pulsar.apache.org/) and 
 [Apache Bookkeeper](https://bookkeeper.apache.org/) tomorrow.
 
 _True but useless fact: "bookkeeper' is the only word in the 
 English language that contains three double letters in a row._
 
-## Day 4: May 11, 2023
+## Day 4: Thursday, May 11, 2023
 
-Stepped away from freeCodeCamp today, worked with [neo4j](neo4j.com) instead. 
+Stepped away from freeCodeCamp today, worked with [neo4j](https://neo4j.com) instead. 
 Turns out there's a bug in the `brew install neo4j` formula, had to go through 
 some admin commands to get the installed version of the config file
 to work with the installed version of neo4j. 
@@ -60,13 +70,13 @@ to work with the installed version of neo4j.
 (Had a doctors' appointment late in the day, was wiped out 
 by that and forgot to push before I fell asleep.)
 
-## Day 3: May 10, 2023
+## Day 3: Wednesday, May 10, 2023
 
 Did another two sections of the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 course. Had no idea there were so many ways to specify colors
 and gradients in CSS! 
 
-## Day 2: May 9, 2023 
+## Day 2: Tuesday, May 9, 2023 
 
 ### freeCodeCamp: [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 
@@ -80,7 +90,7 @@ enough, which will have to be the same thing in this case.
 
 With that done, I got back to my job search....
 
-## Day 1: May 8, 2023
+## Day 1: Monday, May 8, 2023
 
 ### WordPress
 Worked with WordPress, which was clearly created by Satan
